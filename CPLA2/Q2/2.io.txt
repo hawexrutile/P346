@@ -1,0 +1,73 @@
+#print (c.ComplexMultiplier()[0],"+i",c.ComplexMultiplier()[1])
+#1
+c=myComplex([1,2],[3,4])
+d=[2,3]
+print (c.ComplexAdder())
+#print (c.ComplexMultiplier())
+#print (c.ComplexConjugator(d))
+#print (c.ComplexModulus(d))
+#print (c.ComplexPhase(d))
+#print (c.ComplexDivider())
+-----------------------------------------------------------------------------------------------
+[4, 6]
+###############################################################################################
+#2
+c=myComplex([1,2],[3,4])
+d=[2,3]
+#print (c.ComplexAdder())
+print (c.ComplexMultiplier())
+#print (c.ComplexConjugator(d))
+#print (c.ComplexModulus(d))
+#print (c.ComplexPhase(d))
+#print (c.ComplexDivider())
+-----------------------------------------------------------------------------------------------
+[-5, 10]
+###############################################################################################
+#3
+c=myComplex([1,2],[3,4])
+d=[2,3]
+#print (c.ComplexAdder())
+#print (c.ComplexMultiplier())
+print (c.ComplexConjugator(d))
+#print (c.ComplexModulus(d))
+#print (c.ComplexPhase(d))
+#print (c.ComplexDivider())
+-----------------------------------------------------------------------------------------------
+[2, -3]
+###############################################################################################
+#4
+c=myComplex([1,2],[3,4])
+d=[2,3]
+#print (c.ComplexAdder())
+#print (c.ComplexMultiplier())
+#print (c.ComplexConjugator(d))
+print (c.ComplexModulus(d))
+#print (c.ComplexPhase(d))
+#print (c.ComplexDivider())
+-----------------------------------------------------------------------------------------------
+3.605551275463989
+###############################################################################################
+#5
+c=myComplex([1,2],[3,4])
+d=[2,3]
+#print (c.ComplexAdder())
+#print (c.ComplexMultiplier())
+#print (c.ComplexConjugator(d))
+#print (c.ComplexModulus(d))
+print (c.ComplexPhase(d),"rad")
+#print (c.ComplexDivider())
+-----------------------------------------------------------------------------------------------
+0.982793723247329 rad
+###############################################################################################
+#6
+c=myComplex([1,2],[3,4])
+d=[2,3]
+#print (c.ComplexAdder())
+#print (c.ComplexMultiplier())
+#print (c.ComplexConjugator(d))
+#print (c.ComplexModulus(d))
+#print (c.ComplexPhase(d))
+print (c.ComplexDivider())
+-----------------------------------------------------------------------------------------------
+[0.44, 0.08]
+###############################################################################################

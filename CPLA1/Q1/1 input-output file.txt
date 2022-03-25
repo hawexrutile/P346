@@ -1,0 +1,13 @@
+1
+sum of first 4 natural numbers is 10
+sum of first 4 odd numbers is 16
+2
+sum of first 5 natural numbers is 15
+sum of first 5 odd numbers is 25
+3
+Please input positive natural number -5 is not a positive natural number
+4
+Please input natural numbers 6.7 is not a natural number
+5
+sum of first 10 natural numbers is 55
+sum of first 10 odd numbers is 100

@@ -1,0 +1,36 @@
+1     
+
+
+
+The solutions are:
+x_1 = 2.0
+x_2 = -0.0
+x_3 = 6.0
+x_4 = 5.0
+
+2     
+
+
+
+The solutions are:
+x_1 = 1.0
+x_2 = -2.0
+x_3 = -1.0
+
+3   
+
+
+
+Hence, the solution is:
+[-0.33, 0.33, 0.33]
+[-0.17, 0.17, 0.67]
+[1.33, -0.33, -1.33]
+
+
+4
+
+
+
+Determinant of your input matrix is:  65.0
+
+"""

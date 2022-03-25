@@ -1,0 +1,50 @@
+1
+sum of first 5  terms of the ap -
+[1, 2.5, 4.0, 5.5, 7.0]
+is 20.0
+-----------------
+sum of first 6  terms of the ap -
+[2.5, 4.0, 5.5, 7.0, 8.5, 10.0]
+is 37.5
+-----------------
+sum of first 10  terms of the ap -
+[1, 2.5, 4.0, 5.5, 7.0, 8.5, 10.0, 11.5, 13.0, 14.5]
+is 77.5
+=================
+n has to be a positive natural number to form an AP, -3 is not a positive natural number   
+-----------------
+n has to be a natural number to form an AP, 3.1 is not a natural number
+-----------------
+
+GP
+sum of first 5  terms of the gp -
+[1, 0.5, 0.25, 0.125, 0.0625]
+is 1.9375
+-----------------
+sum of first 6  terms of the gp -
+[2.5, 1.25, 0.625, 0.3125, 0.15625, 0.078125]
+is 4.921875
+-----------------
+sum of first 10  terms of the gp -
+[1, 0.5, 0.25, 0.125, 0.0625, 0.03125, 0.015625, 0.0078125, 0.00390625, 0.001953125]
+is 1.998046875
+-----------------
+n has to be a positive natural number to form an GP, -3 is not a positive natural number  
+-----------------   
+n has to be a natural number to form an GP, 3.1 is not a natural number
+-----------------
+
+HP
+sum of first 5  terms of the hp -
+[1.0, 0.4, 0.25, 0.18181818181818182, 0.14285714285714285]
+is 1.9746753246753246
+-----------------
+sum of first 6  terms of the hp -
+[0.4, 0.25, 0.18181818181818182, 0.14285714285714285, 0.11764705882352941, 0.1]
+is 1.192322383498854
+-----------------
+the sequence's AP form contains a 0, please choose a different first term for the HP
+-----------------
+n has to be a positive natural number to form an GP, -3 is not a positive natural number    
+----------------- 
+n has to be a natural number to form an HP, 3.1 is not a natural number

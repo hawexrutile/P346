@@ -1,0 +1,45 @@
+#1
+******
+Guess :a
+**a*** 
+Guess :e
+**a**e 
+Guess :i
+wrong guess
+**a**e     
+Guess :o   
+wrong guess
+**a**e     
+Guess :u   
+wrong guess
+**a**e     
+Guess :w   
+wrong guess
+u lost
+the name of the place is: france
+
+#2
+*********
+Guess :a
+a****a**a
+Guess :e
+wrong guess
+a****a**a
+Guess :i
+a****a*ia
+Guess :o
+wrong guess
+a****a*ia
+Guess :u
+au***a*ia
+Guess :s
+aus**a*ia
+Guess :t
+aust*a*ia
+Guess :r
+austra*ia
+Guess :a
+austra*ia
+Guess :l
+You won
+the name of the place is: australia

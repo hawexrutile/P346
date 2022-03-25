@@ -1,0 +1,7 @@
+N          Factorial(N)
+5 -------- 120
+9 -------- 362880
+2.3 is not a natural number
+12 -------- 479001600
+-5 is not a positive natural number
+0 -------- 1
